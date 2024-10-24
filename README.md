@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering Angular<br>👯 I’m looking to collaborate on any group projects
+🔭 I’m currently working on mastering React<br>👯 I’m looking to collaborate on any group projects
 
 
 ## 🌐 Socials:
